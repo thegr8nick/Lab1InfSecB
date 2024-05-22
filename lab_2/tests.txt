@@ -1,4 +1,6 @@
 INFO:root:frequency_bitwise_test for cpp: 0.2888443663464849
 INFO:root:consecutive_bits_test for cpp: 0.06267821293466594
+INFO:root:longest_sequence_in_block_test for cpp: 0.0438839365735257
 INFO:root:frequency_bitwise_test for java: 0.1572992070502852
 INFO:root:consecutive_bits_test for java: 0.857480207220993
+INFO:root:longest_sequence_in_block_test for java: 0.264597216766479
